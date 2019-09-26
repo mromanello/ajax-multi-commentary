@@ -14,7 +14,7 @@ Writing commentaries about great literary works is a practice that goes back alm
 
 Commentaries constitute a uniquely interesting scholarly genre in many ways. For literary and textual scholars, they represent reference works of absolute importance for any in-depth study of a text. From a history of science perspective, each commentary is a fossilized testimony of reading and understanding a literary text as a historically-situated intellectual process. Finally, from an information technology point of view, digitized commentaries raise important technical challenges, due to their information richness and their typographical features (layout, typeface, multi-lingual nature).
 
-![desk with commentaries at the Hardt foundation in Geneva (CH)](assets/img/hardt_library_commentaries.jpg)*Photo credits: © Fondation Hardt, Vandoeuvres,  2019*.
+![desk with commentaries at the Hardt foundation in Geneva (CH)](assets/img/hardt_library_commentaries.jpg)*Photo credits: © [Fondation Hardt](https://www.fondationhardt.ch/), Vandoeuvres,  2019*.
 
 This project will explore the notion of a digital commentary by focusing on one commentary’s tradition: that of Sophocles’ *Ajax*. Focusing on the historical and epistemological dimension of such publications, this project will study the history of this genre and of its exegetic practices. In order to enable the study of all published commentaries on the Ajax, digitized commentaries will be processed and transformed into a multi-commentary, enabling a comprehensive comparative analysis of the commentary tradition.
 
