@@ -1,4 +1,4 @@
-# Sophocles' Ajax: a Commentary on Commentaries
+# Sophocles' *Ajax*: a Commentary on Commentaries
 
 **Project title**: How does a classical hero die in the digital age? Using Sophocles’ *Ajax* to create a commentary on commentaries.
 
