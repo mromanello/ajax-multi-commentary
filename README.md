@@ -12,49 +12,14 @@
 
 **Description**
 
-Writing commentaries about great literary works is a practice that goes back almost as
-long as those texts themselves, from the famous Alexandrian reception of Homer’s
-epics to Dante's *Divina Commedia*, the *Talmud* or Shakespeare's tragedies. When
-writing a commentary, the commentator usually presents the reader with any
-information that is deemed important for the reading and understanding of the text (e.g., translations and *glossae*; metrical scansion; *mise en scène*; bibliographic references to primary and secondary literature *ad locum*).
+Writing commentaries about great literary works is a practice that goes back almost as long as those texts themselves, from the famous Alexandrian reception of Homer’s epics to Dante's *Divina Commedia*, the *Talmud* or Shakespeare's tragedies. When writing a commentary, the commentator usually presents the reader with any information that is deemed important for the reading and understanding of the text (e.g., translations and *glossae*; metrical scansion; *mise en scène*; bibliographic references to primary and secondary literature *ad locum*).
 
-Commentaries constitute a uniquely interesting scholarly genre in many ways. For
-literary and textual scholars, they represent reference works of absolute importance for
-any in-depth study of a text. From a history of science perspective, each commentary
-is a fossilized testimony of reading and understanding a literary text as a
-historically-situated intellectual process. Finally, from an information technology point
-of view, digitized commentaries raise important technical challenges, due to their
-information richness and their typographical features (layout, typeface, multi-lingual
-nature).
-
-In this project I will explore the notion of a digital commentary by focusing on one
-commentary’s tradition: that of Sophocles’ Ajax. Focusing on the historical and
-epistemological dimension of such publications, this project will study the history of
-this genre and of its exegetic practices. In order to enable the study of all published
-commentaries on the Ajax, digitized commentaries will be processed and transformed
-into a multi-commentary, enabling a comprehensive comparative analysis of the
-commentary tradition. The commentary on commentaries that this project will produce
-sets out to: a) reflect on the different practices of commentators; b) examine different
-readings of text; c) compare and discuss the choices of parallel passages; d) situate
-commentaries within their scholarly context.
-
-This project will make the commentary tradition on the Ajax more easily accessible for
-scholars and readers, it will address crucial technical challenges that concern virtually
-any digitized commentary and hinder the exploitation of these materials, and will
-produce an open source toolkit that could be applied to thousands of digitized and
-public domain classical commentaries.
+Commentaries constitute a uniquely interesting scholarly genre in many ways. For literary and textual scholars, they represent reference works of absolute importance for any in-depth study of a text. From a history of science perspective, each commentary is a fossilized testimony of reading and understanding a literary text as a historically-situated intellectual process. Finally, from an information technology point of view, digitized commentaries raise important technical challenges, due to their information richness and their typographical features (layout, typeface, multi-lingual nature).
 
 ![desk with commentaries at the Hardt foundation in Geneva (CH)](assets/img/hardt_library_commentaries.jpg)*Photo credits: © Fondation Hardt, Vandoeuvres,  2019*.
 
-This project will explore the notion of a digital commentary by focusing on one
-commentary’s tradition: that of Sophocles’ *Ajax*. Focusing on the historical and
-epistemological dimension of such publications, this project will study the history of
-this genre and of its exegetic practices. In order to enable the study of all published
-commentaries on the Ajax, digitized commentaries will be processed and transformed
-into a multi-commentary, enabling a comprehensive comparative analysis of the
-commentary tradition. 
+This project will explore the notion of a digital commentary by focusing on one commentary’s tradition: that of Sophocles’ *Ajax*. Focusing on the historical and epistemological dimension of such publications, this project will study the history of this genre and of its exegetic practices. In order to enable the study of all published commentaries on the Ajax, digitized commentaries will be processed and transformed into a multi-commentary, enabling a comprehensive comparative analysis of the commentary tradition.
 
 The commentary on commentaries that this project will this aims at studying, from a history of science point of view, how the various commentaries have contributed to shaping our reading and understanding of this text. This new commentary sets out to: a) reflect on the different practices of commentators; b) compare and examine different readings of the text; c) compare and discuss the choices of parallel passages; d) situate commentaries within their scholarly context.
 
-This project will make the commentary tradition on the *Ajax* more easily accessible for
-scholars and readers, it will address crucial technical challenges (e.g., lemma linkage, automatic markup, visualization of a multi-commentary) that concern virtually any digitized commentary, and and have hitherto hindered the exploitation of thousands of digitized commentaries already in the public domain.
+This project will make the commentary tradition on the *Ajax* more easily accessible for scholars and readers, it will address crucial technical challenges (e.g., lemma linkage, automatic markup, visualization of a multi-commentary) that concern virtually any digitized commentary, and and have hitherto hindered the exploitation of thousands of digitized commentaries already in the public domain.
