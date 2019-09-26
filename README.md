@@ -1,5 +1,3 @@
-# Sophocles' *Ajax*: a Commentary on Commentaries
-
 **Project title**: How does a classical hero die in the digital age? Using Sophocles’ *Ajax* to create a commentary on commentaries.
 
 **Principal investigator**: [Dr. Matteo Romanello]([https://mromanello.github.io](https://mromanello.github.io/)).
